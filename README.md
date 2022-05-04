@@ -1,5 +1,7 @@
 # FlatTabBar
 
+![FlatTabBar](https://user-images.githubusercontent.com/102223749/166692213-17f83fcd-d7c7-41fa-a3e1-3b9edeb75a6a.png)
+
 # SetUp
 
 Follow instruction in [TabBars](https://github.com/nardanacorp/TabBars)
